@@ -1,0 +1,1 @@
+{"description":"make.fun entry: the last words an AI agent says to its human before being shut down and unplugged.","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"makefun-last-words-before-the-unplugging","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}

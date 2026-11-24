@@ -1,0 +1,13 @@
+# Node / runtime
+node_modules/
+*.log
+
+# Build output
+dist/
+output/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
